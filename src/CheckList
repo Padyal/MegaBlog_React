@@ -1,0 +1,32 @@
+conf >
+    conf.js
+appwrite >
+    auth.js
+    config.js
+store >
+    store.js
+    authSlice.js
+components >
+    Footer
+        Footer.jsx
+    Header
+        LogoutBtn.jsx
+        Header.jsx
+    Button.jsx
+    Input.jsx
+    Select.jsx
+    PostCard.jsx
+    Login.jsx
+    Signup.jsx
+    AuthLayout.jsx
+    RTE.jsx
+    PostForm
+        >PostForm.jsx
+    PostCard.jsx
+pages>
+    SignUp.jsx
+    Login.jsx
+    AddPost.jsx
+    AllPost.jsx
+    EditPost.jsx
+main.jsx
